@@ -1,0 +1,3 @@
+/Users/d/Downloads/reaction_lab_cpp/build/CMakeFiles/reaction_lab.dir
+/Users/d/Downloads/reaction_lab_cpp/build/CMakeFiles/edit_cache.dir
+/Users/d/Downloads/reaction_lab_cpp/build/CMakeFiles/rebuild_cache.dir
